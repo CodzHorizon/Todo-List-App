@@ -50,5 +50,15 @@ A modern, responsive, and minimalist To-Do List application built using **React*
 -npm install 
 -npm run dev
 
-##
+## 👨‍💻 Author
 
+**Your Name**  
+GitHub: [@CodzHorizon](https://github.com/CodzHorizon)
+
+---
+
+## ©️ Copyright
+
+© 2025 CodzHorizon. All rights reserved.
+
+This project is intended for educational and personal use only.
