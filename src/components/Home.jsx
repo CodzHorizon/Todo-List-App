@@ -36,7 +36,7 @@ const Home = () => {
 
   return (
 
-      <div className="flex flex-col rounded-xl sm:mt-15 z-10 self-center  h-[94.8vh] sm:h-[550px] w-[97.5vw] sm:w-[35vw] shadow-md shadow-black  overflow-hidden align-middle">
+      <div className="flex flex-col rounded-xl sm:mt-15 z-10 self-center  h-[92.8vh] sm:h-[550px] w-[97.5vw] sm:w-[35vw] shadow-md shadow-black  overflow-hidden align-middle">
         <div className=" flex justify-center  px-3 py-4 gap-2 ">
           <input
             onChange={handleChange}
