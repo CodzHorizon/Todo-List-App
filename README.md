@@ -23,9 +23,18 @@ A modern, responsive, and minimalist To-Do List application built using **React*
 
 ### Mobile View
 
-
+![image](https://github.com/user-attachments/assets/6b9baa7a-c4a7-472f-ba4a-36da7a2db260)
 
 ---
+
+## 🧪 Built With
+
+- React
+- Tailwind CSS
+- React Router DOM – For routing
+- Vite
+- uuid
+- LocalStorage API
 
 ## 🚀 Getting Started
 
@@ -36,8 +45,10 @@ A modern, responsive, and minimalist To-Do List application built using **React*
 
 ### Installation
 
-```bash
-git clone https://github.com/CodzHorizon/Todo-List.git
-cd Todo-List
-npm install
-npm run dev
+-git clone https://github.com/CodzHorizon/Todo-List.git
+-cd Todo-List
+-npm install 
+-npm run dev
+
+##
+
