@@ -45,10 +45,10 @@ A modern, responsive, and minimalist To-Do List application built using **React*
 
 ### Installation
 
--git clone https://github.com/CodzHorizon/Todo-List.git
--cd Todo-List
--npm install 
--npm run dev
+- **git clone https://github.com/CodzHorizon/Todo-List.git **
+- **cd Todo-List**
+- **npm install** 
+- **npm run dev**
 
 ## 👨‍💻 Author
 
